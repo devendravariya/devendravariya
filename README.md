@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **devendravariya73@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TDj8BE_pjgIFC249rWpSMUWeYP9XTKIm/view?usp=sharing](https://drive.google.com/file/d/1TDj8BE_pjgIFC249rWpSMUWeYP9XTKIm/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1TDj8BE_pjgIFC249rWpSMUWeYP9XTKIm/view?usp=sharing" class="button"><i class="fa fa-download"></i>Download Resume</a>(https://drive.google.com/file/d/1TDj8BE_pjgIFC249rWpSMUWeYP9XTKIm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
