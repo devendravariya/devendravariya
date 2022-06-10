@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devendra Variya</h1>
-<h3 align="center">Devops engineer |Aws Devloper</h3>
+<h3 align="center">Devops engineer | Aws Devloper</h3>
 
 <p align="left"> <a href="https://twitter.com/idevvariya" target="blank"><img src="https://img.shields.io/twitter/follow/idevvariya?logo=twitter&style=for-the-badge" alt="idevvariya" /></a> </p>
 
