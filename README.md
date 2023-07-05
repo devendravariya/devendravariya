@@ -1,18 +1,41 @@
-<h1 align="center">Hi 👋, I'm Devendra Variya</h1>
-<h3 align="center">Devops engineer | Aws Devloper</h3>
+<h1 align="center">💼 Top-Rated AWS Certified Solutions Architect & Linux System Administrator 🚀</h1>
 
-<p align="left"> <a href="https://twitter.com/idevvariya" target="blank"><img src="https://img.shields.io/twitter/follow/idevvariya?logo=twitter&style=for-the-badge" alt="idevvariya" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [www.devendravariya.ga](www.devendravariya.ga)
-
-- 📫 How to reach me **devendravariya73@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/idevvariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="idevvariya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/"https://www.linkedin.com/in/devendravariya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=""https://www.linkedin.com/in/devendravariya/" height="30" width="40" /></a>
-<a href="https://instagram.com/idevvariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idevvariya" height="30" width="40" /></a>
+<p align="center">
+  Drive your business forward with my seasoned expertise in DevOps and Linux System Administration. I specialize in crafting robust infrastructure, managing seamless CI/CD pipelines, and deploying comprehensive monitoring systems while offering optimized Linux systems for elevated business success.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+<h3 align="center">⚙️ Services & Expertise:</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-CI/CD_Pipelines-48C1B7?style=for-the-badge" alt="CI/CD Pipelines"/>
+  <img src="https://img.shields.io/badge/-Infrastructure_Automation-8CD814?style=for-the-badge" alt="Infrastructure Automation"/>
+  <img src="https://img.shields.io/badge/-Real_Time_Monitoring-14B5D8?style=for-the-badge" alt="Real-Time Monitoring"/>
+  <img src="https://img.shields.io/badge/-Linux_System_Administration-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux System Administration"/>
+  <img src="https://img.shields.io/badge/-Cloud_Services-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge" alt="Cloud Services"/>
+  <img src="https://img.shields.io/badge/-Disaster_Recovery_%26_Security-EB4E20?style=for-the-badge" alt="Disaster Recovery & Security"/>
+</p>
+
+<h3 align="center">🏆 Why Me:</h3>
+
+- **Top-Rated Status on Upwork**, indicating excellent client satisfaction.
+- **Unwavering Commitment** to meet deadlines while maintaining top-quality results.
+- **Outstanding Communication Skills** ensuring constant updates and feedback.
+- **Passionate about DevOps engineering**, backed by years of hands-on experience and AWS Certification.
+- **Budget-Friendly** yet impactful solutions.
+
+<h3 align="center">🔧 Tools & Technologies:</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux"/>
+</p>
+
+<h3 align="center">🤝 Let's Collaborate!</h3>
+
+<p align="center">
+  Reach out to discuss your goals and let's create a roadmap to success together. Ready to differentiate yourself in the digital world? Let's collaborate and shape the future together! 💥🔝
+</p>
