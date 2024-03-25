@@ -1,7 +1,7 @@
-<h1 align="center">💼 Top-Rated DevOps Engineer & AWS Certified Solutions Architect 🚀</h1>
+<h1 align="center">💼 Top-Rated Plus DevOps Engineer & AWS Certified Solutions Architect 🚀</h1>
 
 <p align="center">
-  Boost your business's digital presence with my seasoned expertise in DevOps and Linux System Administration. Specializing in robust infrastructure creation, seamless CI/CD pipelines, comprehensive monitoring systems, and optimized Linux systems, I ensure a stellar performance for your business success.
+  Boost your business's digital presence with my seasoned DevOps and Linux System Administration expertise. Specializing in robust infrastructure creation, seamless CI/CD pipelines, comprehensive monitoring systems, and optimized Linux systems, I ensure a stellar performance for your business success.
 </p>
 
 <h3 align="center">⚙️ Expertise & Services:</h3>
