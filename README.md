@@ -21,7 +21,7 @@
 - **Unwavering Commitment**: Always delivering before the deadline without compromising quality.
 - **Exceptional Communication**: Ensuring a feedback-rich and transparent process.
 - **Passion & Certification**: Years of experience and an AWS certification fuel my DevOps passion.
-- **Cost-Efficiency**: Delivering high-impact results without breaking your bank.
+- **Cost-Efficiency**: Delivering high-impact results without breaking the bank.
 
 <h3 align="center">🔧 DevOps Tools & Technologies:</h3>
 
@@ -42,4 +42,3 @@
 <p align="center">
   Want to leap ahead in the digital landscape? Let's discuss your goals and create a strategic roadmap towards success together. Click the "Hire" button now to kickstart a transformational journey! 💥🔝
 </p>
-<div class="contra-hire-me-button" data-analyticsUserId="b17e2447-0460-4fec-892b-67e47e3f9dfa" data-theme="light" data-username="devendra_variya_dz61p3kf"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
