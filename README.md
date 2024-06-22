@@ -1,6 +1,4 @@
 
-<<<<<<< HEAD
-=======
 <p align="center">
   Boost your business's digital presence with my seasoned DevOps and Linux System Administration expertise. Specializing in robust infrastructure creation, seamless CI/CD pipelines, comprehensive monitoring systems, and optimized Linux systems, I ensure a stellar performance for your business success.
 </p>
@@ -43,5 +41,3 @@
 <p align="center">
   Want to leap ahead in the digital landscape? Let's discuss your goals and create a strategic roadmap towards success together. Click the "Hire" button now to kickstart a transformational journey! 💥🔝
 </p>
-
-<div class="contra-hire-me-button" data-analyticsUserId="b17e2447-0460-4fec-892b-67e47e3f9dfa" data-theme="light" data-username="devendra_variya_dz61p3kf"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
