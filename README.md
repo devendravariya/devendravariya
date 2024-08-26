@@ -1,43 +1,49 @@
-
 <p align="center">
-  Boost your business's digital presence with my seasoned DevOps and Linux System Administration expertise. Specializing in robust infrastructure creation, seamless CI/CD pipelines, comprehensive monitoring systems, and optimized Linux systems, I ensure a stellar performance for your business success.
+  Elevate your business's digital presence with my expert Full Stack Development services. Specializing in building scalable web applications, seamless front-end and back-end integration, and user-friendly interfaces, I ensure your business stands out in the digital world.
 </p>
 
 <h3 align="center">⚙️ Expertise & Services:</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-CI/CD_Pipelines-48C1B7?style=for-the-badge" alt="CI/CD Pipelines"/>
-  <img src="https://img.shields.io/badge/-Infrastructure_Automation-8CD814?style=for-the-badge" alt="Infrastructure Automation"/>
-  <img src="https://img.shields.io/badge/-Real_Time_Monitoring-14B5D8?style=for-the-badge" alt="Real-Time Monitoring"/>
-  <img src="https://img.shields.io/badge/-Linux_System_Administration-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux System Administration"/>
-  <img src="https://img.shields.io/badge/-Cloud_Services-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge" alt="Cloud Services"/>
-  <img src="https://img.shields.io/badge/-Disaster_Recovery_%26_Security-EB4E20?style=for-the-badge" alt="Disaster Recovery & Security"/>
+  <img src="https://img.shields.io/badge/-Front_End_Development-48C1B7?style=for-the-badge" alt="Front End Development"/>
+  <img src="https://img.shields.io/badge/-Back_End_Development-8CD814?style=for-the-badge" alt="Back End Development"/>
+  <img src="https://img.shields.io/badge/-API_Integration-14B5D8?style=for-the-badge" alt="API Integration"/>
+  <img src="https://img.shields.io/badge/-Database_Management-FCC624?style=for-the-badge" alt="Database Management"/>
+  <img src="https://img.shields.io/badge/-Responsive_Design-4285F4?style=for-the-badge" alt="Responsive Design"/>
+  <img src="https://img.shields.io/badge/-Security_%26_Performance-EB4E20?style=for-the-badge" alt="Security & Performance"/>
+  <img src="https://img.shields.io/badge/-PHP_Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" alt="PHP Laravel"/>
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS"/>
 </p>
 
 <h3 align="center">🏆 Why Collaborate with Me:</h3>
 
-- **Top-Rated Status on Upwork**: Reflecting a legacy of client satisfaction.
-- **Unwavering Commitment**: Always delivering before the deadline without compromising quality.
-- **Exceptional Communication**: Ensuring a feedback-rich and transparent process.
-- **Passion & Certification**: Years of experience and an AWS certification fuel my DevOps passion.
-- **Cost-Efficiency**: Delivering high-impact results without breaking your bank.
+- **Top-Rated Status on Upwork**: Proven track record of client satisfaction.
+- **Unwavering Commitment**: Delivering high-quality projects on time, every time.
+- **Exceptional Communication**: Transparent and collaborative approach to project management.
+- **Passion & Expertise**: Extensive experience in Full Stack Development with a passion for creating innovative solutions.
+- **Cost-Efficiency**: Providing top-tier development services that fit within your budget.
 
-<h3 align="center">🔧 DevOps Tools & Technologies:</h3>
+<h3 align="center">🔧 Development Tools & Technologies:</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express"/>
+  <img src="https://img.shields.io/badge/-PHP_Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" alt="PHP Laravel"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
+  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Go"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux"/>
 </p>
 
 <h3 align="center">🤝 Let's Work Together!!!</h3>
 
 <p align="center">
-  Want to leap ahead in the digital landscape? Let's discuss your goals and create a strategic roadmap towards success together. Click the "Hire" button now to kickstart a transformational journey! 💥🔝
+  Ready to take your digital project to the next level? Let's discuss your ideas and create a strategic roadmap towards success together. Click the "Hire" button now to start a journey of digital transformation! 🚀🌟
 </p>
