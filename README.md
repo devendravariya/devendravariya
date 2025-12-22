@@ -11,7 +11,7 @@
 
 ## 👋 Intro
 
-1) Hey, I’m Devendra — I build systems that ship fast and stay stable.  
+1) Hey, I’m Devendra, I build systems that ship fast and stay stable.  
 2) I work across DevOps + Full-Stack, so I can own the full delivery cycle.  
 3) I turn manual deployments into clean, repeatable CI/CD pipelines.  
 4) I automate infrastructure with IaC to keep environments consistent.  
