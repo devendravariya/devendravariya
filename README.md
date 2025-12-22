@@ -9,21 +9,24 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/devendravariya"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/Deven_ai"><img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/DevOpscrew"><img src="https://img.shields.io/badge/@Deven_ai-%23000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://github.com/devendravariya"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 Intro (10 lines)
 
-I’m a **DevOps Engineer + Full-Stack Developer** focused on building reliable systems and clean, fast web apps.
-
-- I automate infrastructure, deployments, and scaling (so releases feel boring 😄)
-- I build production-ready apps end-to-end (frontend → backend → cloud)
-- I enjoy debugging tricky issues and improving performance & cost
-
-**Current focus:** Cloud automation, CI/CD, Infrastructure as Code, and modern web stacks.
+1) Hey, I’m Devendra — I build systems that ship fast and stay stable.  
+2) I work across DevOps + Full-Stack, so I can own the full delivery cycle.  
+3) I turn manual deployments into clean, repeatable CI/CD pipelines.  
+4) I automate infrastructure with IaC to keep environments consistent.  
+5) I enjoy solving production issues with calm, data-driven debugging.  
+6) I care about performance, reliability, and keeping cloud spend sensible.  
+7) I’m comfortable with Docker, Kubernetes, AWS, and modern web stacks.  
+8) I like clean UI backed by solid APIs and secure architecture.  
+9) I learn quickly, improve continuously, and document what I build.  
+10) My goal: make deployments boring and products dependable.
 
 ---
 
@@ -35,34 +38,6 @@ I’m a **DevOps Engineer + Full-Stack Developer** focused on building reliable 
     alt="Tech stack icons"
   />
 </div>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=devendravariya&show_icons=true&theme=radical&count_private=true&hide_border=true"
-    alt="Devendra's GitHub stats"
-  />
-  <img width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendravariya&layout=compact&theme=radical&hide_border=true&langs_count=8"
-    alt="Top languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=devendravariya&theme=radical&hide_border=true"
-    alt="GitHub streak"
-  />
-</p>
-
----
-
-## 🧠 Quote I Live By
-
-> *"Infrastructure should be boring. Code should be clean. And deployment should be a non-event."*
 
 ---
 
