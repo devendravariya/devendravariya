@@ -1,11 +1,5 @@
 <h1 align="center">Hey there, I'm Devendra Variya 👋</h1>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=560&height=50&lines=DevOps+Engineer+%7C+Full-Stack+Developer;Cloud+Automation+%7C+CI%2FCD+%7C+IaC;Always+Building+%7C+Always+Learning"
-    alt="Typing animation"
-  />
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/devendravariya"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -15,7 +9,7 @@
 
 ---
 
-## 👋 Intro (10 lines)
+## 👋 Intro
 
 1) Hey, I’m Devendra — I build systems that ship fast and stay stable.  
 2) I work across DevOps + Full-Stack, so I can own the full delivery cycle.  
